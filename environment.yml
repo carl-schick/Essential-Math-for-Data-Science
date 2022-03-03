@@ -1,4 +1,4 @@
-name: emds
+name: bk-emds
 channels:
   - defaults
 dependencies:
